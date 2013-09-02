@@ -1,0 +1,8 @@
+1.0.0
+-------------
+plus theme init
+similar to google plus theme, use ajax+pushstate to interactive the page and use localstorage to store data for next request.
+
+use manifest to staticify static files, such style.css, jquery.js and pjax.js, logo image and so on.
+
+supoort j & k keypress event for transfer article item.

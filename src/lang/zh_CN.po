@@ -1,0 +1,559 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: default\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-29 12:02+0800\n"
+"PO-Revision-Date: 2013-07-29 12:02+0800\n"
+"Last-Translator: welefen <welefen@gmail.com>\n"
+"Language-Team: zwwooooo <http://zww.me/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:7 archive.php:53
+msgid "Error 404 - Not Found"
+msgstr "错误 404 - 没有找到"
+
+#: 404.php:8 archive.php:56
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr "对不起，没有找到您要的东东，或许下面的内容你感兴趣。"
+
+#: 404.php:10 archive.php:57 sidebar.php:5
+msgid "Random Posts"
+msgstr "随机文章"
+
+#: 404.php:19 archive.php:66
+msgid "Tag Cloud"
+msgstr "标签云"
+
+#: archive.php:9
+msgid "Daily Archives:"
+msgstr "日存档:"
+
+#: archive.php:11
+msgid "Monthly Archives:"
+msgstr "月度存档:"
+
+#: archive.php:13
+msgid "Yearly Archives:"
+msgstr "年度存档:"
+
+#: archive.php:15
+msgid "Category Archives:"
+msgstr "分类存档:"
+
+#: archive.php:17
+msgid "Tag Archives:"
+msgstr "标签存档:"
+
+#: archive.php:19
+msgid "Blog Archives"
+msgstr "博客存档"
+
+#: archive.php:31 single.php:12
+#, php-format
+msgid "Author：%s"
+msgstr "作者: %s"
+
+#: archive.php:33 single.php:14
+#, php-format
+msgid "IN：%s"
+msgstr "分类: %s"
+
+#: archive.php:34 index.php:26 single.php:15
+msgid "Tags:"
+msgstr "标签: "
+
+#: archive.php:36 single.php:17
+msgid "Comments："
+msgstr "评论: "
+
+#: archive.php:39 index.php:31 single.php:20
+msgid "Read more &raquo;"
+msgstr "继续阅读 &raquo; "
+
+#: archive.php:41 index.php:33 single.php:22
+msgid "This is a sticky post!"
+msgstr "置顶文章！"
+
+#: archive.php:41 index.php:33 single.php:22
+msgid "continue reading?"
+msgstr "继续阅读？"
+
+#: archive.php:82 index.php:60
+msgid "&laquo; Previous page"
+msgstr "&laquo; 上一页"
+
+#: archive.php:82 index.php:60
+msgid "Next page &raquo;"
+msgstr "下一页 &raquo;"
+
+#: comments.php:10
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "这是受保护的文章，输入密码才能查看评论。"
+
+#: comments.php:42
+msgid "Comments are closed."
+msgstr "评论关闭。"
+
+#: comments.php:61
+msgid "NAME"
+msgstr "昵称"
+
+#: comments.php:63
+msgid "EMAIL"
+msgstr "邮箱"
+
+#: comments.php:65
+msgid "Website URL"
+msgstr "网址"
+
+#: comments.php:73
+msgid "Leave a Comment"
+msgstr "发表评论"
+
+#: comments.php:74
+#, php-format
+msgid "Reply to %s &not;<br />"
+msgstr "回复给 %s &not;<br />"
+
+#: comments.php:75
+msgid "<small>Cancel reply</small>"
+msgstr "<small>取消回复</small>"
+
+#: comments.php:76
+msgid "SUBMIT"
+msgstr "提交"
+
+#: comments.php:90
+msgid "Trackbacks and Pingbacks:"
+msgstr "Trackbacks and Pingbacks:"
+
+#: functions.php:4
+msgid "Primary Widget Area"
+msgstr "主小工具区域"
+
+#: functions.php:6
+msgid "The primary widget area"
+msgstr "全部页面显示的小工具区域"
+
+#: functions.php:30
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s 在 %2$s"
+
+#: functions.php:32
+msgid "Reply"
+msgstr "回复"
+
+#: functions.php:34
+msgid "[Edit]"
+msgstr "[编辑]"
+
+#: functions.php:36
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#: functions.php:56
+msgid "Primary Navigation"
+msgstr "主要导航"
+
+#: functions.php:66
+msgid "logo image URL"
+msgstr "logo图片地址"
+
+#: functions.php:67
+msgid "logo image url.(with http://), height is 28px, max width is 140px"
+msgstr "logo图片地址，高度为28px，最大宽度为140px"
+
+#: functions.php:72
+msgid "404 image URL"
+msgstr "404图片地址"
+
+#: functions.php:73
+msgid "404 page image URL. max width is 700px"
+msgstr "404图片地址，最大宽度为700px"
+
+#: functions.php:78
+msgid "rss URL"
+msgstr "订阅地址"
+
+#: functions.php:79
+msgid "Custom rss URL"
+msgstr "自定义订阅地址"
+
+#: functions.php:84
+msgid "header not fixed"
+msgstr "不固定顶部？"
+
+#: functions.php:85
+msgid "header not fixed?"
+msgstr "顶部(header)不固定？IE6由于不支持固定模式，所以都是不固定的"
+
+#: functions.php:90
+msgid "show author"
+msgstr "显示文章作者"
+
+#: functions.php:91
+msgid "display author in article list?"
+msgstr "文章列表页和详细页是否显示当前文章的作者？"
+
+#: functions.php:96
+msgid "show reply"
+msgstr "显示回复按钮"
+
+#: functions.php:97
+msgid "show reply button in comment list"
+msgstr "评论列表里显示回复按钮"
+
+#: functions.php:102
+msgid "use optimize syntaxhighlighter"
+msgstr "使用优化版的wp syntaxhighlighter插件"
+
+#: functions.php:103
+msgid ""
+"use optimize syntaxhighlighter.support CSS, Javascript, Java, Php, Python, "
+"Sql, Xml, Html. enable this option muse be disabled wp-syntaxhighlighter "
+"plugin"
+msgstr ""
+"使用优化版的wp syntaxhighlighter插件，支持CSS, Javascript, Java, Php, "
+"Python, Sql, Xml, Html等语言。如果你开启这个功能，需要将wp syntaxhighlighter"
+"插件关闭"
+
+#: functions.php:108
+msgid "use vender comment"
+msgstr "使用第三方评论"
+
+#: functions.php:109
+msgid "use vender comment replace default comment, such as youyan"
+msgstr "使用第三方的评论，比如：友言"
+
+#: functions.php:114
+msgid "js framework"
+msgstr "JS框架"
+
+#: functions.php:115
+msgid "js framework, jquery or qwrap or kissy"
+msgstr "使用的JS框架，目前有jquery,qwrap和kissy"
+
+#: functions.php:120
+msgid "show fx?"
+msgstr "展现动画"
+
+#: functions.php:121
+msgid "animate for show content, only in jquery "
+msgstr "内容展现动画，只在jquery下有效"
+
+#: functions.php:126
+msgid "not use ajax"
+msgstr "不使用ajax？"
+
+#: functions.php:127
+msgid "if not use ajax, cache,storage and animate options is not used"
+msgstr "如果不使用ajax，下面的缓存、本地存储和动画选项将无效"
+
+#: functions.php:132
+msgid "cache time"
+msgstr "缓存时间"
+
+#: functions.php:133
+msgid "cache time. default is 1 day. 24 *3600 seconds. 0 is not cache"
+msgstr "缓存时间，默认为1天。单位为秒，0为不缓存"
+
+#: functions.php:138
+msgid "not use storage?"
+msgstr "不使用本地存储？"
+
+#: functions.php:139
+msgid "use storage for cache content for next request"
+msgstr "使用本地存储可以在下次访问的时候直接使用缓存"
+
+#: functions.php:144
+msgid "Home Summary?"
+msgstr "首页摘要"
+
+#: functions.php:145
+msgid "check this then home page will be display post Summary"
+msgstr "勾选此项则在首页显示日志摘要"
+
+#: functions.php:150
+msgid "Summary words"
+msgstr "摘要字数"
+
+#: functions.php:151
+msgid "if you check the Home Summary that you can change then Summary words"
+msgstr "如果你勾选了首页摘要，你可以在这里设置摘要字数"
+
+#: functions.php:157
+msgid "callback function"
+msgstr "回调函数"
+
+#: functions.php:158
+msgid "callback function. such as SyntaxHighlighter.highlight()"
+msgstr ""
+"使用了ajax后的回调函数，如： 执行语法高亮 SyntaxHighlighter.highlight()"
+
+#: functions.php:164
+msgid "analytic js content"
+msgstr "统计JS代码"
+
+#: functions.php:165
+msgid "analytic js content. such as baidu tongji, google analytics"
+msgstr "统计JS代码。比如：使用百度统计、google统计"
+
+#: functions.php:171 functions.php:172
+msgid "Comment Security Key"
+msgstr "评论密钥"
+
+#: functions.php:222 functions.php:223
+msgid "Theme Options"
+msgstr "主题设置"
+
+#: functions.php:236
+#, php-format
+msgid "%1$s Theme Options"
+msgstr "%1$s 主题设置"
+
+#: functions.php:236
+msgid "Options saved"
+msgstr "设置已保存"
+
+#: functions.php:236
+msgid "Save Options"
+msgstr "保存设置"
+
+#: functions.php:370
+msgid "View this post"
+msgstr "查看该文章"
+
+#: functions.php:381
+msgid "Sorry, no posts matched your criteria."
+msgstr "没有任何文章"
+
+#: header.php:48
+msgid "Home"
+msgstr "首页"
+
+#: index.php:23
+#, php-format
+msgid "Author: %s"
+msgstr "作者: %s"
+
+#: index.php:25
+#, php-format
+msgid "IN: %s"
+msgstr "分类: %s"
+
+#: index.php:28
+msgid "Comments: "
+msgstr "评论: "
+
+#: page.php:11
+msgid "Pages:"
+msgstr "分页:"
+
+#: searchform.php:4
+msgid "Search: type"
+msgstr "请输入关键字搜索"
+
+#: sidebar.php:16
+msgid "Search by Tags!"
+msgstr "标签云"
+
+#: sidebar.php:20
+msgid "Archives"
+msgstr "存档"
+
+#: sidebar.php:26
+msgid "Links"
+msgstr "链接"
+
+#: sidebar.php:32
+msgid "Meta"
+msgstr "管理"
+
+#: single.php:10
+msgid "date"
+msgstr "日期"
+
+#: widget/recent_comments.php:25
+msgid "Recent Comments"
+msgstr "最新评论"
+
+#~ msgid "use manifest"
+#~ msgstr "使用manifest加速"
+
+#~ msgid "manifest value"
+#~ msgstr "manifest内容"
+
+#~ msgid "Posted by"
+#~ msgstr "作者:"
+
+#~ msgid "on"
+#~ msgstr "日期:"
+
+#~ msgid "Edit"
+#~ msgstr "编辑"
+
+#~ msgid "None comments"
+#~ msgstr "没有评论"
+
+#~ msgid "comments"
+#~ msgstr "条评论"
+
+#~ msgid "Leave a comment ?"
+#~ msgstr "发表评论？"
+
+#~ msgid "NOTE - You can use these "
+#~ msgstr "注意 - 你可以用以下 "
+
+#~ msgid "Copyright"
+#~ msgstr "版权所有"
+
+#~ msgid "Top"
+#~ msgstr "回到顶部"
+
+#~ msgid "Singular Widget Area"
+#~ msgstr "单页小工具区域"
+
+#~ msgid "The singular widget area"
+#~ msgstr "只在单页显示的小工具区域"
+
+#~ msgid "Not Singular Widget Area"
+#~ msgstr "非单页小工具区域"
+
+#~ msgid "Not the singular widget area"
+#~ msgstr "非单页页面显示的小工具区域"
+
+#~ msgid "Footer Widget Area"
+#~ msgstr "底部小工具区域"
+
+#~ msgid "The footer widget area"
+#~ msgstr "侧边栏底部的小工具区域"
+
+#~ msgid "RSS URL"
+#~ msgstr "RSS订阅地址"
+
+#~ msgid "Put your full rss subscribe address here.(with http://)"
+#~ msgstr ""
+#~ "填入你的自定义订阅地址。（以http://开头，不自定义保留空白，默认会显示wp原"
+#~ "生订阅地址。）"
+
+#~ msgid "twitter URL"
+#~ msgstr "twitter地址"
+
+#~ msgid ""
+#~ "Put your full twitter address here.(with http:// , leave it blank for "
+#~ "display none.)"
+#~ msgstr "填入你的twitter地址。（以http://，如果没有保留空白。）"
+
+#~ msgid "facebook URL"
+#~ msgstr "facebook地址"
+
+#~ msgid ""
+#~ "Put your full facebook address here.(with http:// , leave it blank for no "
+#~ "display none.)"
+#~ msgstr "填入你的Facebook地址。（以http://开头，如果没有保留空白。）"
+
+#~ msgid "Excerpt?"
+#~ msgstr "显示摘录？"
+
+#~ msgid ""
+#~ "If the home page and archive pages to display excerpt of post, check."
+#~ msgstr ""
+#~ "如果首页和存档页的文章显示为摘录，打勾。（中文需要配合摘录插件比较完美，如"
+#~ "wp-utf8-excerpt、中文工具箱、wp-kit-cn）"
+
+#~ msgid "Disable the comment notes"
+#~ msgstr "关闭评论提示"
+
+#~ msgid ""
+#~ "Disabling this will remove the note text that displays with more options "
+#~ "for adding to comments (html)."
+#~ msgstr "勾选后移除评论可以使用的（HTML）提示说明。"
+
+#~ msgid "Disable the comments smilies"
+#~ msgstr "关闭评论表情"
+
+#~ msgid "Disabling this will remove the comments smilies."
+#~ msgstr "勾选后关闭评论表情。"
+
+#~ msgid "Donation"
+#~ msgstr "捐赠"
+
+#~ msgid ""
+#~ "If you feel my work is useful and want to support the development of more "
+#~ "free resources, you can donate me. Thank you very much!"
+#~ msgstr ""
+#~ "如果您觉得我的主题不错、支持更多的免费资源开发，您可以捐赠支持我。非常感谢"
+#~ "您！"
+
+#~ msgid "RSS Feed"
+#~ msgstr "RSS 订阅"
+
+#~ msgid "Follow me on twitter."
+#~ msgstr "Follow me on twitter."
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "1 comments"
+#~ msgstr "1条评论 "
+
+#~ msgid "Leave a comment"
+#~ msgstr "发表评论"
+
+#~ msgid "SEARCH"
+#~ msgstr "搜索"
+
+#~ msgid "Related Posts"
+#~ msgstr "相关文章"
+
+#~ msgid "&raquo; Read more..."
+#~ msgstr "&raquo; 继续阅读..."
+
+#~ msgid "Continue reading"
+#~ msgstr "继续阅读？"
+
+#~ msgid "(Edit)"
+#~ msgstr "(编辑)"
+
+#~ msgid "Rss Url"
+#~ msgstr "订阅地址"
+
+#~ msgid "Update Options &raquo;"
+#~ msgstr "更新设置 &raquo;"
+
+#~ msgid "Reset Options &raquo;"
+#~ msgstr "恢复默认 &raquo;"
+
+#~ msgid "Disable the comment notes: HTML tags and attributes."
+#~ msgstr "关闭评论 HTML tags and attributes 的提示。"
+
+#~ msgid "Excerpt"
+#~ msgstr "摘录"
+
+#~ msgid "1% comments"
+#~ msgstr "1%条评论 "
+
+#~ msgid "% comments"
+#~ msgstr "1%条评论"
+
+#~ msgid "&nbsp;% comments"
+#~ msgstr "&nbsp;% 条评论"
+
+#, fuzzy
+#~ msgid "z % comments"
+#~ msgstr " % 条评论"
+
+#~ msgid "Please do not load this page directly. Thanks!"
+#~ msgstr "请不要直接加载这个页面。谢谢！"
+
+#~ msgid "404 Error - Not found"
+#~ msgstr "错误 404 - 没有找到"

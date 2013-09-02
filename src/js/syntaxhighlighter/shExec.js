@@ -1,0 +1,12 @@
+SyntaxHighlighter.defaults['auto-links'] = true;
+SyntaxHighlighter.defaults['quick-code'] = true;
+SyntaxHighlighter.defaults['title'] = '';
+SyntaxHighlighter.defaults['class-name'] = 'notranslate';
+SyntaxHighlighter.defaults['collapse'] = false;
+SyntaxHighlighter.defaults['first-line'] = 1;
+SyntaxHighlighter.defaults['gutter'] = true;
+SyntaxHighlighter.defaults['pad-line-numbers'] = false;
+SyntaxHighlighter.defaults['smart-tabs'] = true;
+SyntaxHighlighter.defaults['tab-size'] = 4;
+SyntaxHighlighter.defaults['toolbar'] = false;
+SyntaxHighlighter.all();
