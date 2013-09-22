@@ -4,7 +4,6 @@
 	&copy; <?php echo date("Y"); ?>&nbsp;<?php bloginfo('name'); ?> - <a href="http://wordpress.org/">WordPress</a> - <a href="http://www.welefen.com/tag/gplus" title="gplus theme designed by welefen">gplus</a>
 </footer>
 
-<?php wp_footer();?>
 <?php $options = gplus_get_options();?>
 
 <?php if (!gplus_is_ie() && !($options['not_use_ajax'])):?>
@@ -51,3 +50,4 @@
 
 </body>
 </html>
+<?php wp_footer();?>
